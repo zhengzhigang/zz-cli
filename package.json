@@ -1,0 +1,83 @@
+{
+  "_args": [
+    [
+      "@topnet/cli@1.1.2",
+      "D:\\projects\\topdp-serve-summary"
+    ]
+  ],
+  "_from": "@topnet/cli@1.1.2",
+  "_id": "@topnet/cli@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-l11MGh+AY3b1+cgxkp28eC4YnQg48Ywr3ra6feV8YvaZSUgXvnacksU9Y4w1ROwuaCmXIznFiDEJpcYOMnLFZg==",
+  "_location": "/@topnet/cli",
+  "_phantomChildren": {
+    "asn1": "0.2.6",
+    "at-least-node": "1.0.0",
+    "bcrypt-pbkdf": "1.0.2",
+    "chalk": "4.1.2",
+    "glob": "7.2.3",
+    "graceful-fs": "4.2.10",
+    "is-docker": "2.2.1",
+    "is-unicode-supported": "0.1.0",
+    "is-wsl": "2.2.0",
+    "jsonfile": "6.1.0",
+    "streamsearch": "0.1.2",
+    "universalify": "2.0.0"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@topnet/cli@1.1.2",
+    "name": "@topnet/cli",
+    "escapedName": "@topnet%2fcli",
+    "scope": "@topnet",
+    "rawSpec": "1.1.2",
+    "saveSpec": null,
+    "fetchSpec": "1.1.2"
+  },
+  "_requiredBy": [
+    "/@topnet/pdf-viewer"
+  ],
+  "_resolved": "http://192.168.3.42:4873/@topnet%2fcli/-/cli-1.1.2.tgz",
+  "_spec": "1.1.2",
+  "_where": "D:\\projects\\topdp-serve-summary",
+  "author": {
+    "name": "haokang"
+  },
+  "bin": {
+    "topnet": "bin/topnet.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.5",
+    "chalk": "^4.0.0",
+    "clear": "^0.1.0",
+    "commander": "^5.1.0",
+    "consolidate": "^0.15.1",
+    "cross-spawn": "^7.0.2",
+    "download": "^8.0.0",
+    "ejs": "^3.1.3",
+    "figlet": "^1.4.0",
+    "fs-extra": "^9.0.0",
+    "git-clone": "^0.1.0",
+    "inquirer": "^7.1.0",
+    "log-symbols": "^4.0.0",
+    "open": "^7.0.4",
+    "ora": "^4.0.4",
+    "request": "^2.88.2",
+    "rimraf": "^3.0.2",
+    "scp2": "^0.5.0",
+    "ssh2": "^0.8.9"
+  },
+  "description": "topnet-cli是一个可以通过命令行快速选择模板，初始化项目的脚手架工具。",
+  "devDependencies": {},
+  "keywords": [
+    "topnet"
+  ],
+  "license": "ISC",
+  "main": "bin/topnet.js",
+  "name": "@topnet/cli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.2"
+}

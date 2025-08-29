@@ -1,0 +1,17 @@
+{
+    "内网框架(topnet-admin-framework)": {
+        "name": "内网框架(topnet-admin-framework)",
+        "value": "topnet:TechDev3/top-admin-framework",
+        "version": "r6.0.0,r5.2.0"
+    },
+    "外网框架(topnet-web-framework)": {
+        "name": "外网框架(topnet-web-framework)",
+        "value": "topnet:TechDev3/topnet-web-framework",
+        "version": "r4.0.0,r3.0.0"
+    },
+    "移动端框架(topnet-applet-framework)": {
+        "name": "移动端框架(topnet-applet-framework)",
+        "value": "topnet:TechDev3/topnet-applet-framework",
+        "version": "r2.0.0"
+    }
+}

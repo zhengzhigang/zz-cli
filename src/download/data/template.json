@@ -1,0 +1,7 @@
+{
+  "big-screen-template": {
+    "name": "可视化大屏模板",
+    "value": "big-screen-demo.zip",
+    "fileUrl": "http://192.168.3.42/doc/template/big-screen-demo.zip"
+  }
+}
